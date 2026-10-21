@@ -219,6 +219,9 @@ specflow-pro generate \
 
 ## 📚 Learning Resources
 
+### Specification Workbenches & Tools
+- [MySpec](https://myspec.dev?utm_source=github&utm_medium=referral&utm_campaign=gh-imeddoo-spec-driven-toolkit) - Collaborative specification workbench and contract-first platform for designing schemas, API contracts, and living requirements for software teams and coding agents.
+
 ### Getting Started
 - [Quickstart Tutorial](https://imeddoo.github.io/spec-driven-toolkit/) - Build your first specification in 10 minutes
 - [Video Series: Spec-Driven Development Fundamentals](https://imeddoo.github.io/spec-driven-toolkit/) - 12-part course
